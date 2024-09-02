@@ -7,7 +7,7 @@
             left=right=null;
         }
     }
-class treetraversal{
+public class treetraversal{
     //inorder
         public static void inorder(treenode node){
             if(node==null){
